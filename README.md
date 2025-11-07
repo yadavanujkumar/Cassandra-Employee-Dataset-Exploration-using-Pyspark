@@ -1,10 +1,4 @@
-# Employee Dataset Exploration using PySpark
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![PySpark](https://img.shields.io/badge/PySpark-3.5.0-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
-A comprehensive data analysis project using PySpark for exploring employee datasets with **Exploratory Data Analysis (EDA)**, **SQL Analytics**, and **Machine Learning (AI/ML)** components.
+##A comprehensive data analysis project using PySpark for exploring employee datasets with **Exploratory Data Analysis (EDA)**, **SQL Analytics**, and **Machine Learning (AI/ML)** components.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -15,7 +9,7 @@ A comprehensive data analysis project using PySpark for exploring employee datas
 - [Project Structure](#project-structure)
 - [Analysis Components](#analysis-components)
 - [Results](#results)
-- [Contributing](#contributing)
+
 
 ## 🎯 Overview
 
@@ -247,36 +241,3 @@ ORDER BY Avg_Salary DESC
 - **Matplotlib/Seaborn**: Data visualization
 - **Scikit-learn**: ML utilities
 - **Jupyter**: Interactive development
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Author
-
-**Yadav Anuj Kumar**
-- GitHub: [@yadavanujkumar](https://github.com/yadavanujkumar)
-
-## 🙏 Acknowledgments
-
-- Apache Spark community for excellent documentation
-- Dataset contributors
-- Open source community
-
-## 📞 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
----
-
-**Note**: This project is for educational and demonstration purposes. The dataset is synthetic and created for analysis practice.
