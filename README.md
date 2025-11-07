@@ -1,4 +1,4 @@
-##A comprehensive data analysis project using PySpark for exploring employee datasets with **Exploratory Data Analysis (EDA)**, **SQL Analytics**, and **Machine Learning (AI/ML)** components.
+A comprehensive data analysis project using PySpark for exploring employee datasets with **Exploratory Data Analysis (EDA)**, **SQL Analytics**, and **Machine Learning (AI/ML)** components.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
